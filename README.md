@@ -1,7 +1,7 @@
 Cannon & Castle  
 
 Project Overview  
-This project combines ancient warfare aesthetics with modern engineering principles to design and build a **Cannonball Shooter** and a **Castle Structure**. It features a functional spring-based cannon mechanism and a meticulously crafted castle model, showcasing precision manufacturing processes and mechanical design.
+This project combines ancient warfare aesthetics with modern engineering principles to design and build a **Cannonball Shooter** and a **Castle Structure**. It features a functional spring-based cannon mechanism and a meticulously crafted castle model, showcasing precision manufacturing processes and mechanical design. Our project was also announced as **Best Project for 2023-24(2)** for TA211 course. 
 
 Features  
 - Cannonball Shooter:  
